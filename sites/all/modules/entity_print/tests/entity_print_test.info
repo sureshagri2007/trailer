@@ -1,0 +1,12 @@
+name = Entity Print Test
+core = 7.x
+package = Entity Print
+hidden = true
+dependencies[] = entity_print
+
+; Information added by Drupal.org packaging script on 2016-12-08
+version = "7.x-1.5"
+core = "7.x"
+project = "entity_print"
+datestamp = "1481237300"
+
